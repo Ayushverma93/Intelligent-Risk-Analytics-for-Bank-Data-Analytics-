@@ -1,4 +1,4 @@
-# Intelligent-Risk-Analytics-for-Bank-Data-Analytics-
+# Smart-Risk-Assessment-System-for-Banking-/
 A Data Analytics Project
 A data-driven project aimed at identifying, classifying, and analyzing financial risk using advanced data analytics and visualization techniques. This project leverages Python-based tools and Power BI to turn raw banking/customer data into actionable insights that support smarter financial decisions.
 
